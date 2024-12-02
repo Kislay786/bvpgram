@@ -16,6 +16,13 @@ function Home() {
         <Link to='/tickets' className="btn btn-block">
           <FaTicketAlt /> View My Grievance Tickets
         </Link>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <footer>© 2024 Kislay Thakur</footer>
     </>
   )
 }

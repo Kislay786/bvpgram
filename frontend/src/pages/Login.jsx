@@ -62,7 +62,7 @@ function Login() {
           <h1>
             <FaSignInAlt /> Login
           </h1>
-          <p>Please log in to submit grievance</p>
+          <p>Please log in to submit/view grievance</p>
         </section>
         <section className="form">
           <form onSubmit={onSubmit}>
